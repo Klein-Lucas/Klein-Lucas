@@ -47,50 +47,68 @@ Based in Buenos Aires · Remote-first · English C1
 ### 🏆 Notable Projects
 
 <table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <h3>🤖 LLM Pre-Sales Assistant</h3>
-      <img src="https://img.shields.io/badge/LIVE-PRODUCTION-2ea44f?style=for-the-badge" />
-      <br/><br/>
-      <p>End-to-end AI assistant — knowledge base architecture, CRM integration via webhooks, and automated lead temperature classification with human handoff routing.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/GPT--Maker-412991?style=flat-square&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square&logo=zapier&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CRM_Integration-FF6B35?style=flat-square&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Leads%2FMonth-100_%E2%86%92_800-2ea44f?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Response_Time-15_min_%E2%86%92_5_sec-2ea44f?style=for-the-badge"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>⚙️ UI Localization Pipeline</h3>
-      <img src="https://img.shields.io/badge/LIVE-PRODUCTION-2ea44f?style=for-the-badge" />
-      <br/><br/>
-      <p>Python CLI that extracts all UI strings from the codebase, runs them through Google Cloud Translate, and outputs structured key-value dictionaries — baked into Jenkins CI/CD.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Effort_Reduced-93%25_less-2ea44f?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Team_Size-3_people_%E2%86%92_1_person-2ea44f?style=for-the-badge"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🔌 Custom MCP Server</h3>
-      <img src="https://img.shields.io/badge/STATUS-PERSONAL_PROJECT-0075ca?style=for-the-badge" />
-      <br/><br/>
-      <p>Voice-driven task manager built on Anthropic's MCP protocol — send an audio note, Claude transcribes, interprets, and manages your kanban board automatically.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Claude_API-CC7722?style=flat-square&logo=anthropic&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MCP_Protocol-7B2FBE?style=flat-square&logoColor=white"/>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Interface-Voice_%E2%86%92_Tasks-7B2FBE?style=for-the-badge"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Built_from-Scratch-7B2FBE?style=for-the-badge"/>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 LLM Pre-Sales Assistant**
+
+![Production](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT--Maker-412991?style=flat-square&logo=openai&logoColor=white)
+![API](https://img.shields.io/badge/CRM%20API-REST-orange?style=flat-square)
+
+End-to-end AI assistant for inbound lead qualification. Designed full knowledge base architecture, optimized document structure for accuracy on a lower-cost model tier, and integrated with CRM via webhook for automated lead registration and human handoff routing.
+
+![100→800](https://img.shields.io/badge/leads%2Fmonth-100%20%E2%86%92%20800-%2322c55e?style=for-the-badge)
+![15min→5sec](https://img.shields.io/badge/response%20time-15%20min%20%E2%86%92%205%20sec-%2322c55e?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ UI Localization Pipeline**
+
+![Production](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Translate-4285F4?style=flat-square&logo=googletranslate&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+Python CLI pipeline that extracts all UI strings from the product codebase, runs them through Google Cloud Translate API, and generates structured key-value dictionaries for developer integration. Integrated into Jenkins CI/CD — every new screen is automatically localized at release.
+
+![93%](https://img.shields.io/badge/effort%20reduction-93%25-%2322c55e?style=for-the-badge)
+![4w→3d](https://img.shields.io/badge/4%20weeks%20%2F%203%20people%20%E2%86%92%203%20days%20%2F%201-%2322c55e?style=for-the-badge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📋 CMMI v3 Process Adequacy Program**
+
+![Production](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
+![CMMI](https://img.shields.io/badge/CMMI-v3-0052CC?style=flat-square)
+![Consulting](https://img.shields.io/badge/role-solo%20consultant-6366f1?style=flat-square)
+
+Sole internal consultant leading a full CMMI v3 appraisal cycle across a mid-size software company. Mapped all three organizational layers (strategic, tactical, operational) across 19 Practice Areas — including process documentation, gap analysis, workflow redesign, engineering best practices adoption, and formal evidence packaging for external appraisal.
+
+![19 PAs](https://img.shields.io/badge/19%20Practice%20Areas-solo-%236366f1?style=for-the-badge)
+![Passed](https://img.shields.io/badge/Evaluation-Passed-%2322c55e?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+**🎙️ Voice-Driven MCP Kanban**
+
+![Personal](https://img.shields.io/badge/status-personal%20project-3b82f6?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Protocol-8b5cf6?style=flat-square)
+
+Custom MCP server built from scratch that integrates with a self-developed Kanban task manager. Voice-driven interface: send an audio note → Claude transcribes and interprets intent → creates, updates, or queries tasks. Deep protocol-level integration with Anthropic's agent tool execution ecosystem.
+
+![Voice→Task](https://img.shields.io/badge/voice%20note%20%E2%86%92%20task%20created-MCP-%238b5cf6?style=for-the-badge)
+
+</td>
+</tr>
 </table>
 
 ---
