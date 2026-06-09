@@ -32,11 +32,11 @@ Based in Buenos Aires · Remote-first · English C1
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+<img align="left" alt="Flask" title="Flask" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/flask/ffffff"/>
 <img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/ffffff"/>
 <img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 
 <br/>
@@ -49,12 +49,12 @@ Based in Buenos Aires · Remote-first · English C1
 <p align="center">
     <img
         height="180"
-        src="https://github-readme-stats.vercel.app/api?username=Klein-Lucas&show_icons=true&theme=react&include_all_commits=true&hide_border=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Klein-Lucas&show_icons=true&theme=react&include_all_commits=true&hide_border=true"
     />
     &nbsp;&nbsp;
     <img
         height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klein-Lucas&layout=compact&langs_count=6&theme=react&hide_border=true"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Klein-Lucas&layout=compact&langs_count=6&theme=react&hide_border=true"
     />
 </p>
 
