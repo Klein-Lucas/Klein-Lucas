@@ -18,15 +18,15 @@ Based in Buenos Aires · Remote-first · English C1
 
 ---
 
-### 🧠 What I Do
+### What I Do
 
-- 🤖 &nbsp;**AI & LLM Engineering** — production AI assistants, knowledge base architecture, multi-agent workflows, MCP server development, RAG systems
-- ⚙️ &nbsp;**Automation Engineering** — Python CLI tools, API integrations, CI/CD pipelines, workflow automation that turns weeks of manual work into hours
-- 📊 &nbsp;**Process Consulting** — CMMI v3, process mapping, gap analysis, SDLC design, KPI frameworks — from current-state diagnosis to operational deployment
+- **AI & LLM Engineering** — production AI assistants, knowledge base architecture, multi-agent workflows, MCP server development, RAG systems
+- **Automation Engineering** — Python CLI tools, API integrations, CI/CD pipelines, workflow automation that turns weeks of manual work into hours
+- **Process Consulting** — CMMI v3, process mapping, gap analysis, SDLC design, KPI frameworks — from current-state diagnosis to operational deployment
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -44,71 +44,45 @@ Based in Buenos Aires · Remote-first · English C1
 
 ---
 
-### 🏆 Notable Projects
+### Notable Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 LLM Pre-Sales Assistant**
-
-![Production](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT--Maker-412991?style=flat-square&logo=openai&logoColor=white)
-![API](https://img.shields.io/badge/CRM%20API-REST-orange?style=flat-square)
-
-End-to-end AI assistant for inbound lead qualification. Designed full knowledge base architecture, optimized document structure for accuracy on a lower-cost model tier, and integrated with CRM via webhook for automated lead registration and human handoff routing.
-
-![100→800](https://img.shields.io/badge/leads%2Fmonth-100%20%E2%86%92%20800-%2322c55e?style=for-the-badge)
-![15min→5sec](https://img.shields.io/badge/response%20time-15%20min%20%E2%86%92%205%20sec-%2322c55e?style=for-the-badge)
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ UI Localization Pipeline**
-
-![Production](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Translate-4285F4?style=flat-square&logo=googletranslate&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-Python CLI pipeline that extracts all UI strings from the product codebase, runs them through Google Cloud Translate API, and generates structured key-value dictionaries for developer integration. Integrated into Jenkins CI/CD — every new screen is automatically localized at release.
-
-![93%](https://img.shields.io/badge/effort%20reduction-93%25-%2322c55e?style=for-the-badge)
-![4w→3d](https://img.shields.io/badge/4%20weeks%20%2F%203%20people%20%E2%86%92%203%20days%20%2F%201-%2322c55e?style=for-the-badge)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📋 CMMI v3 Process Adequacy Program**
-
-![Production](https://img.shields.io/badge/status-production-22c55e?style=flat-square)
-![CMMI](https://img.shields.io/badge/CMMI-v3-0052CC?style=flat-square)
-![Consulting](https://img.shields.io/badge/role-solo%20consultant-6366f1?style=flat-square)
-
-Sole internal consultant leading a full CMMI v3 appraisal cycle across a mid-size software company. Mapped all three organizational layers (strategic, tactical, operational) across 19 Practice Areas — including process documentation, gap analysis, workflow redesign, engineering best practices adoption, and formal evidence packaging for external appraisal.
-
-![19 PAs](https://img.shields.io/badge/19%20Practice%20Areas-solo-%236366f1?style=for-the-badge)
-![Passed](https://img.shields.io/badge/Evaluation-Passed-%2322c55e?style=for-the-badge)
-
-</td>
-<td width="50%" valign="top">
-
-**🎙️ Voice-Driven MCP Kanban**
-
-![Personal](https://img.shields.io/badge/status-personal%20project-3b82f6?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Protocol-8b5cf6?style=flat-square)
-
-Custom MCP server built from scratch that integrates with a self-developed Kanban task manager. Voice-driven interface: send an audio note → Claude transcribes and interprets intent → creates, updates, or queries tasks. Deep protocol-level integration with Anthropic's agent tool execution ecosystem.
-
-![Voice→Task](https://img.shields.io/badge/voice%20note%20%E2%86%92%20task%20created-MCP-%238b5cf6?style=for-the-badge)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>LLM Pre-Sales Assistant</b><br/>
+      <sub>GPT-Maker · REST API · CRM Integration</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PRODUCTION-LIVE-2ea44f?style=for-the-badge"/><br/><br/>
+      <p align="left">End-to-end AI assistant — knowledge base architecture, CRM integration, and human handoff routing. Deployed solo from scoping to production.</p>
+      <img src="https://img.shields.io/badge/Impact-Inbound_scaled_100_%E2%86%92_800_leads%2Fmo-2ea44f?style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Impact-Response_time_15_min_%E2%86%92_5_sec-2ea44f?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>UI Localization Pipeline</b><br/>
+      <sub>Python · Google Cloud Translate · Jenkins</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PRODUCTION-LIVE-2ea44f?style=for-the-badge"/><br/><br/>
+      <p align="left">CLI pipeline that extracts UI strings, auto-translates, and outputs structured key-value files — integrated into Jenkins so every release is processed automatically.</p>
+      <img src="https://img.shields.io/badge/Impact-93%25_effort_reduction-2ea44f?style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Impact-4_weeks_%2F_3_people_%E2%86%92_3_days_%2F_1-2ea44f?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <b>CMMI v3 Process Adequacy Program</b><br/>
+      <sub>CMMI v3 · Gap Analysis · Process Documentation</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PRODUCTION-LIVE-2ea44f?style=for-the-badge"/><br/><br/>
+      <p align="left">Sole internal consultant leading a full CMMI v3 appraisal cycle. Mapped all three organizational layers (strategic, tactical, operational) across 19 Practice Areas — gap analysis, workflow redesign, engineering best practices, and formal evidence packaging.</p>
+      <img src="https://img.shields.io/badge/Impact-19_Practice_Areas_covered_solo-6366f1?style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Impact-Formal_Evaluation_Passed-2ea44f?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <b>Voice-Driven MCP Kanban</b><br/>
+      <sub>Python · MCP Protocol · Claude API</sub><br/><br/>
+      <img src="https://img.shields.io/badge/PERSONAL-PROJECT-0075ca?style=for-the-badge"/><br/><br/>
+      <p align="left">MCP server built from scratch on top of a self-developed Kanban tool. Voice-driven interface — send an audio note, Claude transcribes and interprets it, tasks are created or updated automatically.</p>
+      <img src="https://img.shields.io/badge/Impact-Voice_note_%E2%86%92_structured_task-7B2FBE?style=for-the-badge"/><br/>
+      <img src="https://img.shields.io/badge/Impact-MCP_protocol_built_from_scratch-7B2FBE?style=for-the-badge"/>
+    </td>
+  </tr>
 </table>
 
 ---
