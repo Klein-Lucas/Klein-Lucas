@@ -44,19 +44,54 @@ Based in Buenos Aires · Remote-first · English C1
 
 ---
 
-### 📊 Stats
+### 🏆 Notable Projects
 
-<p align="center">
-    <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Klein-Lucas&show_icons=true&theme=react&include_all_commits=true&hide_border=true"
-    />
-    &nbsp;&nbsp;
-    <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Klein-Lucas&layout=compact&langs_count=6&theme=react&hide_border=true"
-    />
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>🤖 LLM Pre-Sales Assistant</h3>
+      <img src="https://img.shields.io/badge/LIVE-PRODUCTION-2ea44f?style=for-the-badge" />
+      <br/><br/>
+      <p>End-to-end AI assistant — knowledge base architecture, CRM integration via webhooks, and automated lead temperature classification with human handoff routing.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/GPT--Maker-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_API-0078D4?style=flat-square&logo=zapier&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CRM_Integration-FF6B35?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Leads%2FMonth-100_%E2%86%92_800-2ea44f?style=for-the-badge"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Response_Time-15_min_%E2%86%92_5_sec-2ea44f?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>⚙️ UI Localization Pipeline</h3>
+      <img src="https://img.shields.io/badge/LIVE-PRODUCTION-2ea44f?style=for-the-badge" />
+      <br/><br/>
+      <p>Python CLI that extracts all UI strings from the codebase, runs them through Google Cloud Translate, and outputs structured key-value dictionaries — baked into Jenkins CI/CD.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Effort_Reduced-93%25_less-2ea44f?style=for-the-badge"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Team_Size-3_people_%E2%86%92_1_person-2ea44f?style=for-the-badge"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>🔌 Custom MCP Server</h3>
+      <img src="https://img.shields.io/badge/STATUS-PERSONAL_PROJECT-0075ca?style=for-the-badge" />
+      <br/><br/>
+      <p>Voice-driven task manager built on Anthropic's MCP protocol — send an audio note, Claude transcribes, interprets, and manages your kanban board automatically.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Claude_API-CC7722?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP_Protocol-7B2FBE?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Interface-Voice_%E2%86%92_Tasks-7B2FBE?style=for-the-badge"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Built_from-Scratch-7B2FBE?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
